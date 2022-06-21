@@ -2,3 +2,4 @@
 brokerApp
 webApp
 authApp
+/project/db-data/postgres/*
